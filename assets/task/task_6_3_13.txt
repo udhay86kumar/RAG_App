@@ -1,0 +1,30 @@
+<p class="mb-10">
+  <span tabindex="0"
+    >Hurricanes tend to develop in certain parts of the ocean. They also tend to
+    happen only during a certain part of the year (June 1 to November 30), which
+    is called hurricane season. The data below show how the water temperature
+    and humidity in the air compare in these parts of the ocean during 2 times
+    of the year.</span
+  >
+</p>
+<span tabindex="0"> </span> <span tabindex="0"> </span>
+
+<table class="table">
+  <tbody>
+    <tr>
+      <th style="background-color: #dcdcdc; color: black">Time of year</th>
+      <th style="background-color: #dcdcdc; color: black">Water temperature</th>
+      <th style="background-color: #dcdcdc; color: black">Humidity</th>
+    </tr>
+    <tr>
+      <td>March average (not hurricane season)</td>
+      <td>60℉</td>
+      <td>53%</td>
+    </tr>
+    <tr>
+      <td>July average (hurricane season)</td>
+      <td>82℉</td>
+      <td>95%</td>
+    </tr>
+  </tbody>
+</table>
